@@ -231,6 +231,12 @@ footer{
     border-radius: 10px;
     cursor:pointer;
 }
+.btn:hover{
+    color: black;
+    font-weight: bold;
+    background-color: blue;
+    transform: scale(1.5);
+}
 
 .center{
     text-align: center;
