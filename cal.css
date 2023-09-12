@@ -18,7 +18,7 @@ body{
     box-shadow:0px 3px 15px rgba(113,115,119,0.9);
 }
 ::placeholder{
-    text-align: right;
+    /* text-align: right; */
     color: white;
     font-weight: bold;
     font-family: 'Kanit', sans-serif;
@@ -32,6 +32,11 @@ input{
     box-shadow: 0px 3px 15px rgba(84,84,84,0.5);
     font-size: 35px;
     cursor: pointer;
+    text-align: right;
+    color: white;
+    font-weight: bold;
+    font-weight: bold;
+    font-family: 'Kanit', sans-serif;
 }
 button{
     border: none;
